@@ -17,6 +17,7 @@ CREATE TABLE contacts (
    phone_number varchar(55), 
    message varchar(562)
 );	
+
 create table post(
 title varchar(500) not null,
 sr_no int primary key auto_increment not null,
